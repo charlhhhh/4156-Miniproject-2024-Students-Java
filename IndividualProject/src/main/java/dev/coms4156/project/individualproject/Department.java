@@ -1,7 +1,7 @@
 package dev.coms4156.project.individualproject;
 
-import java.io.Serializable;
 import java.io.Serial;
+import java.io.Serializable;
 import java.util.HashMap;
 import java.util.Map;
 
